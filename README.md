@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khagendra24](https://github.com/khagendra24)
 
-- 💬 Ask me about **Hacking**
+- 💬 Ask me about **Cyber Security & Hacking**
 
 - 📫 How to reach me **khagendrasingh04@gmail.com**
 
