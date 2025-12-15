@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/khagendra" target="blank"><img src="https://img.shields.io/twitter/follow/khagendra?logo=twitter&style=for-the-badge" alt="khagendra" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Mindrisers Institute of Technology**
+- 🔭 I’m currently intern at **Clouds Nepal Web**
 
 - 🌱 I’m currently learning **Cyber security**
 
