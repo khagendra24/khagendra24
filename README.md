@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently interning at **Mindrisers Institute of Technology**  
 - 🌱 I’m currently learning **Cybersecurity and Ethical Hacking**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/khagendra24)  
+- 👨‍💻 All of my projects are available at (https://github.com/khagendra24)  
 - 💬 Ask me about **Cybersecurity, Networking, and Ethical Hacking**  
 - 📫 How to reach me: **khagendrasingh04@gmail.com**  
 
