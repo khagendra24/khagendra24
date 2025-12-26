@@ -43,3 +43,17 @@
 <p><a href="https://www.buymeacoffee.com/Khagendra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Khagendra" /></a><a href="https://ko-fi.com/khagendra"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khagendra" /></a></p><br><br>
 
 
+
+<h3 align="left">Support Me:</h3>
+<p>
+  If you like my work, you can support me:
+  <br><br>
+  <a href="https://www.buymeacoffee.com/Khagendra">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+  <a href="https://ko-fi.com/khagendra">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support on Ko-fi" />
+  </a>
+</p>
+<br><br>
+
