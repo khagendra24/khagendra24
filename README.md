@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/khagendra" target="blank"><img src="https://img.shields.io/twitter/follow/khagendra?logo=twitter&style=for-the-badge" alt="khagendra" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently intern at **Clouds Nepal Web**
+- 🔭 I’m currently intern at **Mindrisers Institute of Technology**
 
 - 🌱 I’m currently learning **Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khagendra24](https://github.com/khagendra24)
 
-- 💬 Ask me about **Cyber Security & Hacking**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **khagendrasingh04@gmail.com**
 
