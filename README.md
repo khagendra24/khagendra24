@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently interning at **Mindrisers Institute of Technology**  
-- 🌱 I’m currently learning **Cybersecurity and ethical hacking**  
+- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking**  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/khagendra24)  
 - 💬 Ask me about **Cybersecurity, Networking, and Ethical Hacking**  
 - 📫 How to reach me: **khagendrasingh04@gmail.com**  
@@ -30,6 +30,9 @@
   <a href="https://www.instagram.com/khagendra_singh_saud/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/khagendra24/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Cybersecurity Languages & Tools:</h3>
@@ -38,7 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/sql-282954.png" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   
   <!-- Cybersecurity Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="40" height="40"/>
